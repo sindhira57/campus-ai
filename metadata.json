@@ -1,0 +1,8 @@
+{
+  "name": "Remix CampusAI",
+  "description": "CampusAI – College Student Companion. Study smarter. Stay organized. Be exam ready.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
